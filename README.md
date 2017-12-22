@@ -20,7 +20,8 @@
 ### React란?
 * 선언적이고 효과적이며 유연한 JavaScript 라이브러리이다.
 * React.Componet 서브클래스를 시작 할 것이다. 
-### 시작하기 
+
+
 ```javascript
 class ShoppingList extends React.Component {
   render() {
@@ -43,6 +44,12 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+### 시작하기
+* [예제링크](https://codepen.io/gaearon/pen/oWWQNa?editors=0010)
+* 3개의 구성
+  * Square
+  * Board
+  * Game
 
 ### Props을 통한 Data 전달
 ### Interactive 구성요소
