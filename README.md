@@ -2,7 +2,7 @@
 
 ## 준비
 ### 개발결과 보기 
-* tic-tac-toe게임 결과 보기 : https://codepen.io/gaearon/pen/gWWZgR?editors=0010
+* [tic-tac-toe 게임](https://codepen.io/gaearon/pen/gWWZgR?editors=001)
 ### 사전준비 
 * 사전지식은 HTML, JavaScript이다.
 * JavaScript 요약 [가이드](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)를 확인하라. 
@@ -12,8 +12,8 @@
 * 개발 완료 하기 위한 방법 두가지가 있다.
 #### 웹브라우저상에서 개발
 * [Starter code](https://codepen.io/gaearon/pen/oWWQNa?editors=0010)
-#### 로컬 PC에서 개발 
-* ㅜ[Node.js](https://nodejs.org/en/) 다운받기
+#### 로컬 PC에서 개발
+* [Node.js](https://nodejs.org/en/) 다운받기
 * [이곳에서](https://reactjs.org/docs/installation.html#creating-a-new-application) 새로운 프로젝트 생성하기 
 *
 ### 도움받기 
