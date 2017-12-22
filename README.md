@@ -15,12 +15,35 @@
 #### 로컬 PC에서 개발
 * [Node.js](https://nodejs.org/en/) 다운받기
 * [이곳에서](https://reactjs.org/docs/installation.html#creating-a-new-application) 새로운 프로젝트 생성하기 
-*
-### 도움받기 
 
 ## 개요 
 ### React란?
+* 선언적이고 효과적이며 유연한 JavaScript 라이브러리이다.
+* React.Componet 서브클래스를 시작 할 것이다. 
 ### 시작하기 
+```javascript
+class ShoppingList extends React.Component {
+  render() {
+    return (
+      <div className="shopping-list">
+        <h1>Shopping List for {this.props.name}</h1>
+        <ul>
+          <li>Instagram</li>
+          <li>WhatsApp</li>
+          <li>Oculus</li>
+        </ul>
+      </div>
+    );
+  }
+}
+// Example usage: <ShoppingList name="Mark" />
+
+ReactDOM.render(
+  <ShoppingList />,
+  document.getElementById('root')
+);
+```
+
 ### Props을 통한 Data 전달
 ### Interactive 구성요소
 ### 개발도구
