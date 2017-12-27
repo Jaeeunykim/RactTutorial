@@ -52,6 +52,25 @@ ReactDOM.render(
   * Game
 
 ### Props을 통한 Data 전달
+사각형안에 값을 넣기 위해서 props를 사용한다
+```javascript
+class Board extends React.Component {
+    renderSquare(i) {
+        return <Square value = {i}/>;
+    }
+}
+
+class Square extends React.Component {
+    render () {
+        return (
+        <button className ="square">
+        {this.props.value}
+        </button>
+        );
+    }
+}
+
+```
 ### Interactive 구성요소
 ### 개발도구
 
