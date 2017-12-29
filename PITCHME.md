@@ -2,8 +2,6 @@
 
 # React 튜토리얼
 
-## React 튜토리얼 익혀보기!
-
 ---?image=assets/image/daniel-ghio.jpg
 
 ## 준비!
