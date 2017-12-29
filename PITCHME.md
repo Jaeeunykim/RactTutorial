@@ -1,16 +1,16 @@
 ---?image=assets/image/patrick-tomasso.jpg
 
-# Brick
+# React 튜토리얼
 
-### A GitPitch Presentation Template
+### React 튜토리얼 익혀보기!
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Tips!
+## 준비!
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+- 개발결과 보기 
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
