@@ -4,32 +4,47 @@
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## 준비!
-
-<br>
-
-- 개발결과 보기 
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+## 목차
+- 준비
+- 개요 
+- 상태변경 
+- 히스토리 저장
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Template Features
+### 준비 
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- 개발결과 보기 
+- 사전준비
+- 개발 환경
 
 <br><br>
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+### 개요 
+- React란?
+- 시작하기 
+- Props를 통한 Data전달
+- Interactive 구성요소
+- 개발도구 
+
+---?image=assets/image/daniel-ghio.jpg
+
+### 상태변경 
+
+- Immutability의 중요성
+- 기능요소
+- 다음순번 처리 
+- 우승자 선정
+
+---?code=src/go/server.go&lang=golang&title=Golang File
+
+### 히스토리 저장
+- Moves 보여주기
+- Keys
+- 시간순서로 실행하기 
+- 정리하기 
 
 ---?image=assets/image/simon-matzinger.jpg
 
