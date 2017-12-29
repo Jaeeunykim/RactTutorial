@@ -36,13 +36,26 @@
 ---?image=assets/image/daniel-ghio.jpg
 
 ### 상태변경 
-
+-<br><br>
 - Immutability의 중요성
 - 기능요소
 - 다음순번 처리 
-- 우승자 선정
+---?code=src/go/server.go&lang=golang&title=Golang File
+
+### 개요 
+- React란?
+- 시작하기 
+- Props를 통한 Data전달
+- Interactive 구성요소
+- 개발도구 
+
+e 우승자 선정
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
+
+-@[1,3-6](Present code found within any repo source file.)
+-@[8-18](Without ever leaving your slideshow.)
+-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ### 히스토리 저장
 - Moves 보여주기
