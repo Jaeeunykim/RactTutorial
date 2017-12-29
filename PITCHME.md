@@ -10,6 +10,7 @@
 - 상태변경 
 - 히스토리 저장
 
+<br>
 ---?image=assets/image/daniel-ghio.jpg
 
 ### 준비 
@@ -18,8 +19,10 @@
 - 사전준비
 - 개발 환경
 
+-@fa[microphone gp-tip](Press S for Speaker Notes)
 <br><br>
 
+----?image=assets/image/daniel-ghio.jpg
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
 ### 개요 
@@ -29,6 +32,7 @@
 - Interactive 구성요소
 - 개발도구 
 
+-## Template Features
 ---?image=assets/image/daniel-ghio.jpg
 
 ### 상태변경 
